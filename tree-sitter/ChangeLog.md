@@ -1,3 +1,7 @@
+### v0.9.0.4
+
+* Bump `tree-sitter` to 20.6
+
 ### v0.9.0.2
 
 * Remove `fused-effects` dependency.
